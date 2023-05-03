@@ -1,0 +1,24 @@
+{
+  "id": "home",
+  "presentation": {
+    "title": {
+      "type": "title",
+      "label": "Workday Extend"
+    },
+    "body": {
+      "type": "section",
+      "children": [
+        {
+          "type": "richText",
+          "id": "HomePage",
+          "label": "Global Risk of Leaving",
+          "value": "Welcome to GROL v2"
+        }
+      ]
+    },
+    "footer": {
+      "type": "footer",
+      "children": [ ]
+    }
+  }
+}

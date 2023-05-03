@@ -1,0 +1,21 @@
+{
+  "id": "Grol-v2-Testing",
+  "languages": [
+    {
+      "code": "en-US",
+      "description": "English"
+    }
+  ],
+  "siteAuth": {
+    "authTypes": [
+      {
+        "scheme": "SSO",
+        "id": "sso"
+      }
+    ]
+  },
+  "siteId": "Grol-v2-Testing",
+  "cdnEnabled": true,
+  "siteProperties": [ ],
+  "applicationId": "Grol-v2-Testing"
+}
