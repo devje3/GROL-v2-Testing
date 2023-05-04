@@ -13,6 +13,12 @@
           "id": "HomePage",
           "label": "Global Risk of Leaving",
           "value": "Welcome to GROL v2, this is a test modification"
+        },
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Test2",
+          "value": "Text test2"
         }
       ]
     },
