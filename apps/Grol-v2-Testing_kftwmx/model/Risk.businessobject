@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Risk",
+  "label": "Risk",
+  "defaultSecurityDomains": [
+    "mySecurityDomain"
+  ],
+  "defaultCollection": {
+    "name": "risks",
+    "label": "Risks"
+  },
+  "fields": [
+    {
+      "id": 1,
+      "name": "myField",
+      "label": "My Field",
+      "type": "TEXT"
+    }
+  ]
+}
