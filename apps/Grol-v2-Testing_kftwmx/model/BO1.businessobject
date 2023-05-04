@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "name": "BO1",
+  "label": "B O1",
+  "defaultSecurityDomains": [
+    "mySecurityDomain"
+  ],
+  "defaultCollection": {
+    "name": "bO1s",
+    "label": "B O1s"
+  },
+  "fields": [
+    {
+      "id": 1,
+      "name": "myField",
+      "label": "My Field",
+      "type": "TEXT"
+    }
+  ]
+}
