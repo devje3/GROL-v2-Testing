@@ -12,7 +12,7 @@
           "type": "richText",
           "id": "HomePage",
           "label": "Global Risk of Leaving",
-          "value": "Welcome to GROL v2"
+          "value": "Welcome to GROL v2, this is a test modification"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "id": "Grol-v2-Testing",
+  "id": "Grol-v2-Testing_kftwmx",
   "languages": [
     {
       "code": "en-US",
@@ -14,8 +14,8 @@
       }
     ]
   },
-  "siteId": "Grol-v2-Testing",
+  "siteId": "Grol-v2-Testing_kftwmx",
   "cdnEnabled": true,
   "siteProperties": [ ],
-  "applicationId": "Grol-v2-Testing"
+  "applicationId": "Grol-v2-Testing_kftwmx"
 }
