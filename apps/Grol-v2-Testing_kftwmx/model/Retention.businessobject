@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "Retention",
+  "label": "Retention",
+  "defaultSecurityDomains": [
+    "mySecurityDomain"
+  ],
+  "defaultCollection": {
+    "name": "retentions",
+    "label": "Retentions"
+  },
+  "fields": [
+    {
+      "id": 1,
+      "name": "myField",
+      "label": "My Field",
+      "type": "TEXT"
+    }
+  ]
+}
