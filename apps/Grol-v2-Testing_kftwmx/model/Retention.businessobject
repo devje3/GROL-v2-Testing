@@ -3,7 +3,7 @@
   "name": "Retention",
   "label": "Retention",
   "defaultSecurityDomains": [
-    "mySecurityDomain"
+    "MySecurityDomain"
   ],
   "defaultCollection": {
     "name": "retentions",

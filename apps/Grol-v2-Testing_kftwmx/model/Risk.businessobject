@@ -3,7 +3,7 @@
   "name": "Risk",
   "label": "Risk",
   "defaultSecurityDomains": [
-    "mySecurityDomain"
+    "MySecurityDomain"
   ],
   "defaultCollection": {
     "name": "risks",

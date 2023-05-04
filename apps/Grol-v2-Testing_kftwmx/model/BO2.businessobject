@@ -1,13 +1,13 @@
 {
-  "id": 3,
-  "name": "BO1",
-  "label": "B O1",
+  "id": 4,
+  "name": "BO2",
+  "label": "B O2",
   "defaultSecurityDomains": [
     "MySecurityDomain"
   ],
   "defaultCollection": {
-    "name": "bO1s",
-    "label": "B O1s"
+    "name": "bO2s",
+    "label": "B O2s"
   },
   "fields": [
     {

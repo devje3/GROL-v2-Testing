@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "name": "mySecurityDomain",
+  "name": "MySecurityDomain",
   "label": "My Security Domain",
   "enabledForPageSecurity": false
 }
