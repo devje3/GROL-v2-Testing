@@ -19,6 +19,12 @@
           "id": "text",
           "label": "Test2",
           "value": "Text test2"
+        },
+        {
+          "type": "button",
+          "id": "button1",
+          "value": "button",
+          "action": "AUXILIARY"
         }
       ]
     },
